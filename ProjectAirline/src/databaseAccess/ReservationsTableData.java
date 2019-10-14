@@ -12,7 +12,7 @@ import java.sql.*;
 public class ReservationsTableData {
 		
 		private static Statement statement;
-		 private static PreparedStatement pstatement;
+		private static PreparedStatement pstatement;
 	    private static ObservableList<ReservationsTable> reservationsTableItems;
 	    private static Connection conn = DBconnect.connect();
 

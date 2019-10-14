@@ -35,7 +35,7 @@ public class Main extends Application{
 	  private WebView webView;
 	  private Stage mainStage;
 	  private static final int SPLASH_WIDTH = 676;
-	  private static final int SPLASH_HEIGHT = 227;
+	  private static final int SPLASH_HEIGHT = 220;
 
 	  public static void main(String[] args) throws Exception { launch(args); }
 
